@@ -1,66 +1,69 @@
-# Bem-vindo ao GESTÃO DE CONCURSO
+# Welcome to your Lovable project
 
-## Informações do projeto
+## Project info
 
-**URL**: https://github.com/Paulorrss/GestaoDeConcurso
+**URL**: https://lovable.dev/projects/e4740e9d-4d5b-4690-845a-ec69951f0189
 
-## Como posso editar este código?
+## How can I edit this code?
 
-Existem várias maneiras de editar a aplicação.
+There are several ways of editing your application.
 
-Basta visitar o https://github.com/Paulorrss/GestaoDeConcurso
-As alterações feitas serão automaticamente confirmadas neste repositório.
+**Use Lovable**
 
-**Use seu IDE preferido**
+Simply visit the [Lovable Project](https://lovable.dev/projects/e4740e9d-4d5b-4690-845a-ec69951f0189) and start prompting.
 
-Se você quiser trabalhar localmente usando seu próprio IDE, você pode clonar este repositório e enviar as alterações. As mudanças aplicadas também serão refletidas.
+Changes made via Lovable will be committed automatically to this repo.
 
-O único requisito é ter o Node.js e o npm instalados - [instalar com nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Use your preferred IDE**
 
-Siga estes passos:
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
 
 ```sh
-# Etapa 1: Clone o repositório usando a URL do Git do projeto.
-git clone <SEU_URL_GIT>
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-# Etapa 2: navegue até o diretório do projeto.
-cd <NOME_DO_SEU_PROJETO>
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-# Etapa 3: Instale as dependências necessárias.
-npm eu
+# Step 3: Install the necessary dependencies.
+npm i
 
-# Etapa 4: inicie o servidor de desenvolvimento com recarregamento automático e uma visualização instantânea.
-npm executar dev
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
 ```
 
-**Edite um arquivo diretamente no GitHub**
+**Edit a file directly in GitHub**
 
-- Navegue até o(s) arquivo(s) desejado(s).
-- Clique no botão "Editar" (ícone de lápis) no canto superior direito da visualização do arquivo.
-- Faça suas mudanças e comprometa-se com elas.
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-**Use os Codespaces do GitHub**
+**Use GitHub Codespaces**
 
-- Navegue até a página principal do seu repositório.
-- Clique no botão "Código" (botão verde) próximo ao canto superior direito.
-- Selecione a aba "Codespaces".
-- Clique em "Novo codespace" para iniciar um novo ambiente de codespace.
-- Edite arquivos diretamente no Codespace e confirme e envie suas alterações quando terminar.
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## Quais tecnologias são usadas neste projeto?
+## What technologies are used for this project?
 
-Este projeto foi construído com .
+This project is built with .
 
--Vida
+- Vite
 - TypeScript
-- Reagir
+- React
 - shadcn-ui
-- CSS do Tailwind
+- Tailwind CSS
 
-## Como posso implantar este projeto?
+## How can I deploy this project?
 
-Basta abrir https://github.com/Paulorrss/GestaoDeConcurso e clicar em Compartilhar -> Publicar.
+Simply open [Lovable](https://lovable.dev/projects/e4740e9d-4d5b-4690-845a-ec69951f0189) and click on Share -> Publish.
 
-## Quero usar um domínio personalizado. Isso é possível?
+## I want to use a custom domain - is that possible?
 
-Se você quiser implantar o projeto em seu próprio domínio, recomendo usar o Netlify.
+We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
