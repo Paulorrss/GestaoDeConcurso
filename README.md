@@ -1,22 +1,19 @@
-# Bem-vindo ao seu projeto Lovable
+# Bem-vindo ao GESTÃO DE CONCURSO
 
 ## Informações do projeto
 
-**URL**: https://lovable.dev/projects/e4740e9d-4d5b-4690-845a-ec69951f0189
+**URL**: https://github.com/Paulorrss/GestaoDeConcurso
 
 ## Como posso editar este código?
 
-Existem várias maneiras de editar sua aplicação.
+Existem várias maneiras de editar a aplicação.
 
-**Use o Lovable**
-
-Basta visitar o [Projeto Lovable](https://lovable.dev/projects/e4740e9d-4d5b-4690-845a-ec69951f0189) e começar a solicitar.
-
-As alterações feitas via Lovable serão automaticamente confirmadas neste repositório.
+Basta visitar o https://github.com/Paulorrss/GestaoDeConcurso
+As alterações feitas serão automaticamente confirmadas neste repositório.
 
 **Use seu IDE preferido**
 
-Se você quiser trabalhar localmente usando seu próprio IDE, você pode clonar este repositório e enviar as alterações. As mudanças aplicadas também serão refletidas no Lovable.
+Se você quiser trabalhar localmente usando seu próprio IDE, você pode clonar este repositório e enviar as alterações. As mudanças aplicadas também serão refletidas.
 
 O único requisito é ter o Node.js e o npm instalados - [instalar com nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,8 +59,8 @@ Este projeto foi construído com .
 
 ## Como posso implantar este projeto?
 
-Basta abrir [Lovable](https://lovable.dev/projects/e4740e9d-4d5b-4690-845a-ec69951f0189) e clicar em Compartilhar -> Publicar.
+Basta abrir https://github.com/Paulorrss/GestaoDeConcurso e clicar em Compartilhar -> Publicar.
 
 ## Quero usar um domínio personalizado. Isso é possível?
 
-Ainda não oferecemos suporte a domínios personalizados. Se você quiser implantar seu projeto em seu próprio domínio, recomendamos usar o Netlify. Visite nossa documentação para mais detalhes: [Domínios personalizados](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Se você quiser implantar o projeto em seu próprio domínio, recomendo usar o Netlify.
